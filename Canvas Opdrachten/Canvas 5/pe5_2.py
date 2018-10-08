@@ -3,3 +3,4 @@ paspoort = input('Heb je een Nederlandspaspoort: ')
 
 if leeftijd >= 18 and paspoort == 'ja':
     print('Gefeliciteerd, je mag stemmen!')
+
